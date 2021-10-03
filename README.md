@@ -23,7 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />**Name of your app** is a basic twitter app to read your tweets.
+![ezgif-4-aadaa57c74d5](https://user-images.githubusercontent.com/70527398/135769243-7dc97b6b-9de7-4fa6-bb2c-dd69aa0f8deb.gif)
+
 
 Time spent: **3** hours spent in total
 
